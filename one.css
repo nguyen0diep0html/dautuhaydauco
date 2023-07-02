@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://photo-mekongasean.epicdn.me/w825/Uploaded/2023/mrwqwqdwp/2023_03_26/chung-khoan-1002.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white; /* Set the text color to white */
+  }
+  
+  header h1,
+  nav a {
+    color: white; /* Set the text color to white */
+  }
+  
+  section h2,
+  section p {
+    color: white; /* Set the text color to white */
+  }
+  
+  footer p {
+    color: white; /* Set the text color to white */
+  }
